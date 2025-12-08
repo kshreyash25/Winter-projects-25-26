@@ -1,13 +1,13 @@
 # Group <number>
 
 Group 12
-Mandar Keche \n
-Ashmil Saxena \n
-Laukik Krishna Joshi\n
-Mayank Kumar\n
-Mayank Verma \n
-Sohan Kolhe \n
-Yashvardhan Singh Chauhan\n
-Aman Agrawal\n
-Harsh Verma\n
-Khushi Sharma \n
+Mandar Keche 
+Ashmil Saxena 
+Laukik Krishna Joshi 
+Mayank Kumar 
+Mayank Verma 
+Sohan Kolhe 
+Yashvardhan Singh Chauhan 
+Aman Agrawal 
+Harsh Verma 
+Khushi Sharma 
